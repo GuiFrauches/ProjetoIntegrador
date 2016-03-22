@@ -1,0 +1,11 @@
+package projetointegrador;
+
+/**
+ *
+ * @author João Pedro
+ */
+public class ProjetoIntegrador {
+    public static void main(String[] args) {
+        System.out.println("Olá Mundo");
+    }
+}
